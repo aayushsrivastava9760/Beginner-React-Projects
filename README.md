@@ -1,3 +1,3 @@
 # React-Projects
 
-### Some beginner projects done through online courses .
+### Some beginner projects  .
